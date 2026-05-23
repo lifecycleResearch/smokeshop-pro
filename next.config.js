@@ -1,12 +1,8 @@
 const nextConfig = {
   reactStrictMode: true,
-  turbopack: {
-    root: __dirname,
-  },
+  output: 'export',
+  trailingSlash: true,
   images: {
-    remotePatterns: [
-      { protocol: 'https', hostname: 'images.unsplash.com' },
-    ],
     unoptimized: true,
   },
 }
