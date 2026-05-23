@@ -1,0 +1,250 @@
+[
+  {
+    "slug": "smokeshop-pro",
+    "name": "SmokeShop Pro",
+    "category": "Retail/Dispensary",
+    "tagline": "All-in-one platform for smoke shops and hemp retailers \u2014 POS, social scheduling, compliance, and more",
+    "hook": "Run Your Entire Smoke Shop From One Dashboard",
+    "description": "The only platform built specifically for smoke shops and hemp retailers. SmokeShop Pro combines point-of-sale, social media scheduling, inventory management, age verification, and compliance tracking into one powerful, easy-to-use system.",
+    "primaryColor": "#10b981",
+    "pricing": {
+      "starter": {
+        "price": 49,
+        "queries": "1 location",
+        "features": [
+          "1 location POS",
+          "Basic inventory tracking",
+          "Age verification at checkout",
+          "3 social media accounts",
+          "50 scheduled posts/month",
+          "Monthly compliance report",
+          "Email support"
+        ]
+      },
+      "pro": {
+        "price": 149,
+        "queries": "5 locations",
+        "features": [
+          "5 location POS",
+          "Advanced inventory with auto-reorder",
+          "ID scanner integration",
+          "10 social media accounts",
+          "Unlimited scheduled posts",
+          "Weekly compliance reports",
+          "Customer loyalty program",
+          "Staff management & permissions",
+          "Priority support",
+          "API access"
+        ]
+      },
+      "enterprise": {
+        "price": 399,
+        "queries": "Unlimited",
+        "features": [
+          "Unlimited locations",
+          "Full POS with layaway & returns",
+          "Real-time ID verification",
+          "Unlimited social media accounts",
+          "AI-powered content suggestions",
+          "Daily compliance dashboards",
+          "Custom loyalty & rewards",
+          "Multi-location analytics",
+          "White-label option",
+          "Dedicated account manager",
+          "SLA guarantee"
+        ]
+      }
+    },
+    "competitor": {
+      "name": "Square + Buffer",
+      "price": 200
+    },
+    "roi": 28,
+    "roiLabel": "28x ROI vs. running multiple tools",
+    "bundle": {
+      "name": "Dispensary Bundle",
+      "price": 199
+    },
+    "features": [
+      {
+        "title": "Smoke Shop POS",
+        "description": "Purpose-built point-of-sale for tobacco, hemp, and vape retailers. Handles age-restricted product sales, tax calculations by product category, and split tender with ease.",
+        "benefit": "Process sales 3x faster than generic POS",
+        "icon": "ShoppingCart"
+      },
+      {
+        "title": "Social Media Scheduler",
+        "description": "Schedule posts across Instagram, Facebook, TikTok, and Twitter. AI suggests content based on your products, trending topics, and compliance-safe language for age-restricted industries.",
+        "benefit": "Save 8+ hours/week on social media",
+        "icon": "Calendar"
+      },
+      {
+        "title": "Inventory Management",
+        "description": "Track every vape, rolling paper, pipe, and hemp product. Get low-stock alerts, auto-reorder suggestions, and batch/lot tracking for compliance.",
+        "benefit": "Never run out of your best sellers",
+        "icon": "Package"
+      },
+      {
+        "title": "Age Verification & Compliance",
+        "description": "Built-in ID scanner at checkout, automatic age gates on your website, and compliance reports for local tobacco and hemp regulations. Stay audit-ready 24/7.",
+        "benefit": "Pass every compliance audit",
+        "icon": "Shield"
+      },
+      {
+        "title": "Customer Loyalty Program",
+        "description": "Points-based loyalty, punch cards, referrals, and VIP tiers designed for repeat smoke shop customers. Integrates directly with POS for seamless rewards redemption.",
+        "benefit": "Increase repeat visits by 40%",
+        "icon": "Gift"
+      },
+      {
+        "title": "Multi-Location Dashboard",
+        "description": "See sales, inventory, and staff performance across all your locations in real-time. Compare stores, identify top performers, and spot issues before they become problems.",
+        "benefit": "Manage 5 locations as easily as 1",
+        "icon": "BarChart3"
+      },
+      {
+        "title": "Product Catalog & Menu Builder",
+        "description": "Digital menu boards, QR code ordering, and online product catalogs. Update prices and products once \u2014 they sync everywhere instantly.",
+        "benefit": "Update your menu in seconds, not hours",
+        "icon": "LayoutGrid"
+      },
+      {
+        "title": "Staff Scheduling & Permissions",
+        "description": "Schedule shifts, track hours, manage cash drawer assignments, and set role-based permissions. Your employees only see what they need to.",
+        "benefit": "Cut admin work by 60%",
+        "icon": "Users"
+      },
+      {
+        "title": "Reporting & Analytics",
+        "description": "Daily, weekly, and monthly reports on sales, margins, customer trends, and product performance. Know exactly which products drive your profits.",
+        "benefit": "Data-driven decisions, not guesswork",
+        "icon": "TrendingUp"
+      },
+      {
+        "title": "Website & Online Ordering",
+        "description": "Custom website with age gate, online ordering for pickup or delivery, and SEO optimization. All orders flow directly into your POS.",
+        "benefit": "Capture online sales you're currently losing",
+        "icon": "Globe"
+      },
+      {
+        "title": "Marketing Automation",
+        "description": "SMS campaigns, email newsletters, and social media ads. Auto-send birthday offers, restock alerts, and promotions to your customer list.",
+        "benefit": "Turn quiet days into busy ones",
+        "icon": "Zap"
+      },
+      {
+        "title": "Hemp & CBD Compliance Suite",
+        "description": "Track THC content, manage COAs (Certificates of Analysis), generate state-required reports, and stay compliant with evolving hemp and CBD regulations.",
+        "benefit": "Stay compliant without a compliance team",
+        "icon": "FileCheck"
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "We replaced Square, Buffer, and three other tools with SmokeShop Pro. Saved $400/month and everything just works together now.",
+        "author": "Mike Torres",
+        "role": "Owner",
+        "company": "Cloud9 Smoke & Vape (3 locations)"
+      },
+      {
+        "quote": "The age verification at checkout alone is worth the price. We passed our last compliance audit with zero issues for the first time ever.",
+        "author": "Sarah Chen",
+        "role": "General Manager",
+        "company": "Green Leaf Hemp Co."
+      },
+      {
+        "quote": "Social media scheduling that actually understands what we can and can't say about age-restricted products? Game changer. Our Instagram engagement doubled.",
+        "author": "James Wilson",
+        "role": "Marketing Director",
+        "company": "Pineapple Express Shops (5 locations)"
+      },
+      {
+        "quote": "Inventory tracking with auto-reorder alerts means I never run out of best sellers. My customers always find what they need, and my revenue is up 35% since switching.",
+        "author": "Priya Patel",
+        "role": "Owner",
+        "company": "Happy Herbalist"
+      },
+      {
+        "quote": "The loyalty program pays for itself. Our repeat customer rate went from 28% to 52% in six months. Customers love earning points on every purchase.",
+        "author": "David Kim",
+        "role": "Operations Manager",
+        "company": "VapeWorld (8 locations)"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is SmokeShop Pro compliant with tobacco and hemp regulations?",
+        "answer": "Yes. We built compliance into every feature \u2014 from age verification at checkout to THC content tracking for hemp products, to automatic reporting for your state's requirements. We update the system as regulations change."
+      },
+      {
+        "question": "Can I migrate from Square or another POS?",
+        "answer": "Absolutely. We offer free migration assistance. Our team will import your inventory, customer data, and sales history. Most shops are fully up and running within 48 hours."
+      },
+      {
+        "question": "How does the social media scheduler handle age-restricted content?",
+        "answer": "Our AI content engine is specifically trained on age-restricted industry guidelines. It flags non-compliant language, suggests approved alternatives, and ensures your posts meet platform advertising policies for tobacco and hemp products."
+      },
+      {
+        "question": "What hardware do I need for the POS?",
+        "answer": "SmokeShop Pro works on any iPad, Android tablet, or web browser. We support all major receipt printers, barcode scanners, cash drawers, and card readers. No proprietary hardware required."
+      },
+      {
+        "question": "Can I manage multiple locations from one dashboard?",
+        "answer": "Yes. Our Pro and Enterprise plans include multi-location management. See real-time sales, inventory, and staff performance across all your stores from a single dashboard."
+      },
+      {
+        "question": "What if I need to cancel?",
+        "answer": "No contracts, no penalties. Cancel anytime with one click. We'll even help you export your data. We believe our product earns your business every month."
+      }
+    ],
+    "howItWorks": [
+      {
+        "step": 1,
+        "title": "Set Up Your Shop",
+        "description": "Import your inventory, connect your bank, and configure your POS in under 2 hours. Free migration assistance included.",
+        "icon": "Settings"
+      },
+      {
+        "step": 2,
+        "title": "Connect Your Channels",
+        "description": "Link your social media accounts, set up your website, and configure age verification. One platform, every channel.",
+        "icon": "Link"
+      },
+      {
+        "step": 3,
+        "title": "Start Selling & Growing",
+        "description": "Process sales, schedule social posts, track inventory, and watch your analytics dashboard light up with insights.",
+        "icon": "Rocket"
+      }
+    ],
+    "problemAgitate": {
+      "problem": "Smoke shop owners are drowning in disconnected tools \u2014 one for POS, one for social media, one for inventory, one for compliance. None of them talk to each other, and none of them understand the unique needs of age-restricted retail.",
+      "agitate": "Every day you waste switching between Square, Buffer, spreadsheets, and compliance checklists is a day your competitors are pulling ahead. Generic tools weren't built for smoke shops \u2014 they don't handle age verification, hemp compliance, or product-specific taxes. And you're paying for 4-5 separate subscriptions that still leave gaps."
+    },
+    "dreamOutcome": "Imagine running your entire smoke shop \u2014 sales, social media, inventory, compliance, loyalty, and reporting \u2014 from one dashboard. No more juggling tools, no more compliance anxiety, no more missed posts or empty shelves. SmokeShop Pro gives you everything you need to grow, all in one place.",
+    "riskReversal": "Try SmokeShop Pro risk-free for 30 days. We'll migrate your data for free, set up your POS, and train your staff. If you're not saving time and making more money, get a full refund. No questions asked.",
+    "guaranteeDays": 30,
+    "scarcity": "Limited-time offer: First 100 smoke shops get 50% off annual plan + free data migration",
+    "images": {
+      "hero": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80",
+      "dashboard": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80",
+      "features": [
+        "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+        "https://images.unsplash.com/photo-1563013544-824ae7f70d18?w=800&q=80",
+        "https://images.unsplash.com/photo-1607082349566-18734671cb66?w=800&q=80"
+      ],
+      "testimonials": [
+        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&q=80",
+        "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&q=80",
+        "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&q=80"
+      ]
+    },
+    "altText": {
+      "hero": "SmokeShop Pro dashboard showing POS, inventory, and social media scheduling for smoke shop management",
+      "dashboard": "SmokeShop Pro analytics dashboard with sales tracking and compliance monitoring",
+      "feature0": "SmokeShop Pro point-of-sale system with age verification and product categories",
+      "feature1": "SmokeShop Pro social media scheduler with compliance-safe content suggestions",
+      "feature2": "SmokeShop Pro inventory management with auto-reorder alerts for smoke shop products"
+    }
+  }
+]
