@@ -44,7 +44,7 @@ export default function CatalogPage({ products }: { products: CatalogProduct[] }
   const [activeCategory, setActiveCategory] = useState<string>('all')
 
   const categories = useMemo(() => {
-    const cats = [...new Set(products.map(p => p.category))]
+    const cats = Array.from(new Set(products.map(p => p.category)))
     return cats.sort((a, b) => {
       const countA = products.filter(p => p.category === a).length
       const countB = products.filter(p => p.category === b).length
